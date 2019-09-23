@@ -1,0 +1,27 @@
+{
+  "name": "f28wp-mmorpg",
+  "version": "1.0.0",
+  "description": "An MMO RPG game for F28WP Web Programming.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacob-Mowat/f28wp-web-programming-mmorpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacob-Mowat/f28wp-web-programming-mmorpg/issues"
+  },
+  "homepage": "https://github.com/Jacob-Mowat/f28wp-web-programming-mmorpg#readme",
+  "dependencies": {
+    "eslint": "^6.4.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "express": "^4.17.1",
+    "http": "0.0.0"
+  }
+}
