@@ -2,10 +2,10 @@
 An MMO RPG game for F28WP Web Programming.
 
 # Details
-A develop an online multiplayer game that that lets players interact and play other people in realtime. Store and view information (e.g., high-scores, number of online active players). Play other
-people or join other games. On interaction should be communicated to a web server and recorded in
-server side storage (e.g. MongoDB, MySQL or files), as well as being displayed back to the user side
-(e.g., leaderboards, other player interaction). The front-end should also let a user list all or some
+We will be developing an online multiplayer game that lets players interact with one another and compete in realtime. It will be able to store and display information (e.g., high-scores, number of online active players), play against other
+people and allow you to join other player's games. The online interaction will be communicated to a web server and recorded in
+server side storage (e.g. MongoDB, MySQL or files), as well as being displayed back to the user's client
+(e.g., leaderboards, other player interaction). The front-end will also let a user list all or some of the
 game information that is available (e.g., player’s past scores and other where they sit in the global
 high scores).
 
@@ -15,7 +15,7 @@ The following Web technologies should be used
 
 
 # Objectives
-- Design and implementation web-based 'multiplayer' game
+- Design and implementation of a web-based 'multiplayer' game
 - Theory and practice of server-side scripting and database for web games
 - Code modulation in JavaScript
 - Techniques to implement best practices in web development such as Test-Driven -
